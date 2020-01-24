@@ -6,5 +6,5 @@
 * [How to implement an horizontal timed scrolling recyclerview in Android.](https://medium.com/@tejumoladavid_91868/how-to-implement-an-horizontal-timed-scrolling-recyclerview-in-android-e4da369532f0) 
 
 
- ![Architecture GIF]](images/view.gif)
+![Sample GIF](https://github.com/javadVatan/Auto-Infinite-Rotation/blob/master/images/view.gif)
 
